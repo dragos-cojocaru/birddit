@@ -21,7 +21,7 @@ Built with the Next.js App Router, TypeScript, Tailwind, Zod, NextAuth.
 ### Prerequisites
 
 - Node.js 18.17 or later.
-- pnpm (optional, but recommended) or another package manager.
+- pnpm or another package manager.
 - A database compatible with Prisma (PostgreSQL, MySQL, SQLite, SQL Server, or a cloud database).
 - An Upstash Redis instance for caching.
 - A Google OAuth client ID and secret.
