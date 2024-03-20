@@ -55,13 +55,13 @@ cp .env.example .env
 
 Then, open the `.env` file and fill in the required values for the database, Google OAuth, UploadThing, and Upstash Redis.
 
-### Step 4: Install dependencies
+#### Step 4: Install dependencies
 
 ```bash
 pnpm install
 ```
 
-### Step 5: Run the development server
+#### Step 5: Run the development server
 
 ```bash
 pnpm dev
