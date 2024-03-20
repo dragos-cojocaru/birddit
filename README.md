@@ -53,7 +53,7 @@ To do so, make a copy of the `.env.example` file and rename it to `.env`:
 cp .env.example .env
 ```
 
-Then, open the `.env` file and fill in the required values for the database, Google OAuth, UploadThing, and Upstash Redis.
+Then, open the `.env` file and fill in the required values for the database, JWT secret, Google OAuth, UploadThing, and Upstash Redis.
 
 #### Step 4: Install dependencies
 
